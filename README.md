@@ -1,2 +1,2 @@
 # Dot-files-Reddit-
-Assorted dot files for Sway, Waybar and Dunst.
+Assorted dot files for Sway WM, Waybar and Dunst.
